@@ -1,6 +1,12 @@
 # watercp
 
-![](https://github.com/dhMagicTech/watercp/blob/master/app/waterbg.png)
+water conservation paltform is An app focused on saving water.
+You can record the daily use of water.
+Share it with your friends.
+There are also beautiful pie chart statistics.
+Hope to help you build a good habit of saving water.
+
+![](https://github.com/dhMagicTech/watercp/blob/master/waterbg.png)
 
 ### Framework
 
