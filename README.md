@@ -1,5 +1,7 @@
 # watercp
 
+![](https://github.com/dhMagicTech/watercp/blob/master/app/waterbg.png)
+
 ### Framework
 
 ### Center center server
